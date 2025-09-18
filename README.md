@@ -111,7 +111,7 @@ print("Decrypted Cipher Text:", decrypted_text)
 
 Output:
 
-<img width="402" height="191" alt="Screenshot 2025-09-03 224458" src="https://github.com/user-attachments/assets/27a73574-e583-4478-a798-798b2c5a2d62" />
+<img width="1680" height="796" alt="Screenshot 2025-09-18 090944" src="https://github.com/user-attachments/assets/7cd0a1f0-c1c8-47ab-aa0a-5b9fa5dfaf37" />
 
 Result:
 
